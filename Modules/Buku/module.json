@@ -1,0 +1,11 @@
+{
+    "name": "Buku",
+    "alias": "buku",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Buku\\Providers\\BukuServiceProvider"
+    ],
+    "files": []
+}
